@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chapter 5 Topic 4</string>
+    <string name="lang_idn">인도네시아</string>
+    <string name="lang_eng">영어</string>
+    <string name="lang_kor">한국어</string>
+    <string name="txt_sapaan">안녕하세요! 응용 프로그램에 오신 것을 환영합니다</string>
+    <string name="sb_deflang">기본 언어로 변경</string>
+    <string name="bhs">당신은 현재 언어를 사용하고 있습니다</string>
+</resources>

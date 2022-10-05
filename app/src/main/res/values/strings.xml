@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chapter 5 Topic 4</string>
+    <string name="lang_idn">Indonesia</string>
+    <string name="lang_eng">Inggris</string>
+    <string name="lang_kor">Korea</string>
+    <string name="txt_sapaan">Halo! Selamat datang di Aplikasi Bahasa</string>
+<string name="sb_deflang">Ubah ke Bahasa Bawaan</string>
+    <string name="bhs">Saat ini anda menggunakan bahasa</string>
+</resources>
